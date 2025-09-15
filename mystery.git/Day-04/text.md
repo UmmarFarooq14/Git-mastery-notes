@@ -34,3 +34,9 @@ Note:-
 Note:-
 ----
 	-->We want to see which files are prepared and ready to be saved in the next commit.
+command:
+--------
+	git show --pretty="" --name-only commit-id.
+ 
+-->This command will display the names of files in committing stage.
+
