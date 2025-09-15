@@ -28,7 +28,7 @@ Steps:
 ------
 
 1) Navigate to Repository u want to change.
-2) 2) gh repo edit <owner>/<repo> --visibility private.
+2) gh repo edit <owner>/<repo> --visibility private.
 3) gh repo view --json name, visibility.
 
 
