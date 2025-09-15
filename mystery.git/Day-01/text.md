@@ -8,15 +8,15 @@ Tools Required to Learn Git:
 What is Git & History of Gi:
 ----------------------------
 
-Git is a popular version control system tool created by Linus Torvalds in 2005 and maintained by Junio Hamano as of now.
+--> Git is a popular version control system tool created by Linus Torvalds in 2005 and maintained by Junio Hamano as of now.
 
 
 Uses of Git:
 ------------
 
--- Tracking the changes of code.
--- Tracking who made the changes in code.
--- code collaboration.
+--> Tracking the changes of code.
+--> Tracking who made the changes in code.
+--> code collaboration.
 
 
 Concept of Git Help:
