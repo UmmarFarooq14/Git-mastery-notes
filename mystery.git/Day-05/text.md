@@ -5,7 +5,8 @@ Scenario:
 --> You are working on a project, and over time you’ve created multiple temporary or test files (e.g., .log, .tmp, build files) that are not tracked by Git. These files clutter your working directory, and your manager asks you to clean them up to maintain a tidy repository.
 
 
--- To delete untracked files we will use two commands.
+To delete untracked files we will use two commands:
+------------------------------------------------------
 
 1) git clean -n ----> It will display the all files what are all  going to delete.
 2) git clean -f ----> It will delete the files in untracked area.
@@ -23,9 +24,9 @@ Scenario:
 
 In CLI:
 -------
-Step-1: Navigate to Repository u want to change.
-Step-2: gh repo edit <owner>/<repo> --visibility private.
-Step-3: gh repo view --json name, visibility.
+Step-1) Navigate to Repository u want to change.
+Step-2) gh repo edit <owner>/<repo> --visibility private.
+Step-3) gh repo view --json name, visibility.
 
 
 In GUI:
