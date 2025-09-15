@@ -24,9 +24,12 @@ Scenario:
 
 In CLI:
 -------
-Step-1) Navigate to Repository u want to change.
-Step-2) gh repo edit <owner>/<repo> --visibility private.
-Step-3) gh repo view --json name, visibility.
+Steps:
+------
+
+1) Navigate to Repository u want to change.
+2) 2) gh repo edit <owner>/<repo> --visibility private.
+3) gh repo view --json name, visibility.
 
 
 In GUI:
