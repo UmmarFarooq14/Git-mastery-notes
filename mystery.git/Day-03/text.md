@@ -6,15 +6,15 @@ Working Area:
 command:
 --------
 
--->touch / cat/ vim -----> use to create the file.
+touch / cat/ vim -----> use to create the file.
 
 Ex:-
 
--->touch f1
--->cat > f1 -->then enter the data and press ctr + d to get back from terminal in normal user.
--->vi f1 ---> go to insert mode (press i) ---> add data --> press :wq!(w-->save, q-->quit)---> to get a out from vi editor.
+--> touch f1
+--> cat > f1 -->then enter the data and press ctr + d to get back from terminal in normal user.
+--> vi f1 ---> go to insert mode (press i) ---> add data --> press :wq!(w-->save, q-->quit)---> to get a out from vi editor.
 
-After creating a file u need a push file from working area to staging area using a command "git add filename"(for a single file).
+--> After creating a file u need a push file from working area to staging area using a command "git add filename"(for a single file).
 
 Staging Area:
 ------------
