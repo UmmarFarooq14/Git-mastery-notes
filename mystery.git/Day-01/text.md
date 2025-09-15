@@ -14,15 +14,15 @@ What is Git & History of Gi:
 Uses of Git:
 ------------
 
---> Tracking the changes of code.
---> Tracking who made the changes in code.
---> code collaboration.
+1) Tracking the changes of code.
+2)  Tracking who made the changes in code.
+3)   code collaboration.
 
 
 Concept of Git Help:
 --------------------
---> The git help command is Git's built-in way to get documentation, guides and usage details from git commands.
---> It's like a manual that tells you what each Git command does, how to use it and what are the options available.
+1) The git help command is Git's built-in way to get documentation, guides and usage details from git commands.
+2)  It's like a manual that tells you what each Git command does, how to use it and what are the options available.
 
 Basic Usage:
 ------------
