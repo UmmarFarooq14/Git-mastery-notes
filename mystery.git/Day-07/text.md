@@ -48,7 +48,7 @@ To create a new-branch and switch it to created-branch:
 -------------------------------------------------------
 command:
 --------
---> git checkout -b branch-name.
+	git checkout -b branch-name.
 
 Related Commands to branches:
 -----------------------------
