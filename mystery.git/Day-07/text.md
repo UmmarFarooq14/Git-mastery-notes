@@ -4,7 +4,7 @@ Concept of Branching:
 
 What is a Branch in Git:
 -----------------------
-	-->A branch is like a separate line of development in your project.
+	--> A branch is like a separate line of development in your project.
 
 1)  Think of it as a pointer to a specific commit.
 2)  It lets you work on new features, bug fixes, or experiments without affecting the main code.
@@ -32,8 +32,8 @@ How to switch one-branch to another branch:
 -------------------------------------------
 command:
 -------
---> git checkout branch-name.
---> git switch branch-name.
+ git checkout branch-name.
+ git switch branch-name.
 
 Visual Example:
 ---------------
@@ -56,4 +56,4 @@ Related Commands to branches:
 3) To display the branch in local                      -----> git branch.
 4) To delete a branch in local                         -----> git branch -d branch-name.
 5) To delete a branch in remote repo                   -----> git push alias-name :branch-name.
-6) modify the name of the branch                    -----> git branch -m <old-name> <new-name>.
+6) modify the name of the branch                       -----> git branch -m <old-name> <new-name>.
