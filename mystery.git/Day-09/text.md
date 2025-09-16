@@ -4,9 +4,9 @@ Concept of git stash:
 
 Why Use Stash:
 -------------
---> when you need to switch branches quickly without committing.
---> When you want to save work in progress temporarily.
---> keep your commit history clean.
+1) when you need to switch branches quickly without committing.
+2) When you want to save work in progress temporarily.
+3) keep your commit history clean.
 
 Common Commands:
 ---------------
@@ -45,8 +45,7 @@ Concept of git pull, git fetch and git merge:
 Git fetch:
 ----------
 
---> It Fetch the updated data from remote repository to local repository and it merge in local repository but doesn't change working directory or current branch.
---> Think of it as checking for updates.
+            It Fetch the updated data from remote repository to local repository and it merge in local repository but doesn't change working directory or current branch.Think of it as checking for updates.
 
 command:
 -------
@@ -54,8 +53,7 @@ command:
 
 Git merge:
 ----------
---> Combines changes from one branch to another branch.
---> We can use it after fetching or switching a branch.
+           Combines changes from one branch to another branch.We can use it after fetching or switching a branch.
 
 command:
 --------
@@ -63,8 +61,7 @@ command:
 
 Git pull:
 ---------
---> A shortcut from git fetch + git merge in one command.
---> It downloads new changes and immediately merges them into your current branch.
+           A shortcut from git fetch + git merge in one command.It downloads new changes and immediately merges them into your current branch.
 
 command:
 --------
