@@ -32,8 +32,8 @@ How to switch one-branch to another branch:
 -------------------------------------------
 command:
 -------
- git checkout branch-name.
- git switch branch-name.
+ 	git checkout branch-name.
+ 	git switch branch-name.
 
 Visual Example:
 ---------------
