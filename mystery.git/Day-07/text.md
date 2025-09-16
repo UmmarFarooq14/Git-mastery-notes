@@ -27,7 +27,7 @@ How Branches Work (Simple Flow):
    
 command:
 ---------
--->git branch branch-name.
+	git branch branch-name.
 
 How to switch one-branch to another branch:
 -------------------------------------------
