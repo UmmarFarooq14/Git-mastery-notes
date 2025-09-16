@@ -4,8 +4,7 @@ Pushing Modified Files Without Using git add:
 Scenario:
 --------
 
-	You are working on a feature and have made changes to several already tracked files (files that were added to Git in previous commits).
-Your team lead asks you to quickly commit these changes with a clear message, without running git add separately for each file.
+	You are working on a feature and have made changes to several already tracked files (files that were added to Git in previous commits).Your team lead asks you to quickly commit these changes with a clear message, without running git add separately for each file.
 
 
 Command:
@@ -34,9 +33,9 @@ git add * :
 
 Note:-
 -----
---> .gitignore prevents tracking of files you don't want in version control.
---> If a file is already in repo, .gitignore won't remove it, you need git rm --cached.
---> It won't affect the other files, it only applies to the files matching pattern inside the .gitignore.
+1) .gitignore prevents tracking of files you don't want in version control.
+2) If a file is already in repo, .gitignore won't remove it, you need git rm --cached.
+3) It won't affect the other files, it only applies to the files matching pattern inside the .gitignore.
 
 
 How to push all the files/directories into all the branches:
