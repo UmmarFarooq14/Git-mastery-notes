@@ -4,7 +4,7 @@ Concept of Branching:
 
 What is a Branch in Git:
 -----------------------
-	--> A branch is like a separate line of development in your project.
+	 A branch is like a separate line of development in your project.
 
 1)  Think of it as a pointer to a specific commit.
 2)  It lets you work on new features, bug fixes, or experiments without affecting the main code.
