@@ -24,6 +24,7 @@ How Branches Work (Simple Flow):
 
 1)  Start with a main branch (often main or master).
 2)  Create a new branch to work on something:
+   
 command:
 ---------
 -->git branch branch-name.
