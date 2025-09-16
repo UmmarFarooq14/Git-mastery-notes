@@ -29,7 +29,7 @@ git add * :
 
 .gitignore:
 -----------
---> The .gitignore file tells Git to ignore specified files or directories so they are not tracked or pushed to the remote repository. If a file has already been pushed to the remote, adding it to .gitignore will not remove it from the remote. It only prevents new changes to ignored files from being tracked. Other files in the repository are not affected.
+	The .gitignore file tells Git to ignore specified files or directories so they are not tracked or pushed to the remote repository. If a file has already been pushed to the remote, adding it to .gitignore will not remove it from the remote. It only prevents new changes to ignored files from being tracked. Other files in the repository are not affected.
 
 Note:-
 -----
