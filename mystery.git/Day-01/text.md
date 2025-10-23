@@ -21,8 +21,8 @@ Uses of Git:
 
 Concept of Git Help:
 --------------------
-1) The git help command is Git's built-in way to get documentation, guides and usage details from git commands.
-2)  It's like a manual that tells you what each Git command does, how to use it and what are the options available.
+		1) The git help command is Git's built-in way to get documentation, guides and usage details from git commands.
+		2)  It's like a manual that tells you what each Git command does, how to use it and what are the options available.
 
 Basic Usage:
 ------------
