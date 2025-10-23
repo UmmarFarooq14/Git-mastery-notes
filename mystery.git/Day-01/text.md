@@ -39,20 +39,20 @@ Basic Usage:
 Difference between Git & GitHub:
 --------------------------------
 
-# Difference Between Git and GitHub
-----------------------------------------------------------------------------------------------------------------------------------------------------
-| Feature            | Git                                           | GitHub                                                                       |
-|--------------------|-----------------------------------------------|------------------------------------------------------------------------------|
-| **Definition**     | Distributed version control system to track changes in code.| Cloud-based platform** to host Git repositories and collaborate|   |**Type**            | Tool (Installed locally)                      | Service (Web-based)                                                          |
-| **Usage**          | Manage versions of code locally.              | Share, collaborate, and manage Git repos online.                             |
-| **Internet**       | Not required for local version control.       | Requires internet to push/pull changes.                                      |
-| **Installation**   | Needs to be installed on your system.         | No installation needed (Web account needed).                                 |
-| **Primary Role**   | Tracks code changes, branching, merging.      | Hosts repositories, manages teams, integrates tools (CI/CD).                 |
-| **Ownership**      | Open-source, maintained by community.         | Owned by Microsoft.                                                          |
-| **Alternatives**   | Mercurial, Subversion (SVN).                  | GitLab, Bitbucket.                                                           |
-| **Example Command**| `git init`, `git add`, `git commit`.          | `git push origin main` (push code to GitHub).                                |
-|                    |                                               |                                                                              |
------------------------------------------------------------------------------------------------------------------------------------------------------
+		 Difference Between Git and GitHub
+		----------------------------------------------------------------------------------------------------------------------------------------------------
+		| Feature            | Git                                           | GitHub                                                                       |
+		|--------------------|-----------------------------------------------|------------------------------------------------------------------------------|
+		| **Definition**     | Distributed version control system to track changes in code.| Cloud-based platform** to host Git repositories and collaborate|   |**Type**            | Tool (Installed locally)                      | Service (Web-based)                                                          |
+		| **Usage**          | Manage versions of code locally.              | Share, collaborate, and manage Git repos online.                             |
+		| **Internet**       | Not required for local version control.       | Requires internet to push/pull changes.                                      |
+		| **Installation**   | Needs to be installed on your system.         | No installation needed (Web account needed).                                 |
+		| **Primary Role**   | Tracks code changes, branching, merging.      | Hosts repositories, manages teams, integrates tools (CI/CD).                 |
+		| **Ownership**      | Open-source, maintained by community.         | Owned by Microsoft.                                                          |
+		| **Alternatives**   | Mercurial, Subversion (SVN).                  | GitLab, Bitbucket.                                                           |
+		| **Example Command**| `git init`, `git add`, `git commit`.          | `git push origin main` (push code to GitHub).                                |
+		|                    |                                               |                                                                              |
+		-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Difference Between CLI & GUI.
 
