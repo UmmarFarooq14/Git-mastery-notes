@@ -14,9 +14,9 @@ What is Git & History of Gui:
 Uses of Git:
 ------------
 
-1) Tracking the changes of code.
-2)  Tracking who made the changes in code.
-3)   code collaboration.
+		1) Tracking the changes of code.
+		2) Tracking who made the changes in code.
+		3) code collaboration.
 
 
 Concept of Git Help:
