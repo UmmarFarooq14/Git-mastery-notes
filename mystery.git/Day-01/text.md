@@ -26,15 +26,15 @@ Concept of Git Help:
 
 Basic Usage:
 ------------
-------------------------------------------------------------------------------------------
-| Commands                | What It Does                                                  |
-| ---------------------- | ------------------------------------------------------------- |
-| `git help`             | Shows general help about Git.                                 |
-| `git help <command>`   | Opens the manual page for a specific command.                 |
-| `git <command> --help` | Same as above (alternate way).                                |
-| `git help -a`          | Lists all available Git commands.                             |
-| `git help -g`          | Shows a list of Git concept guides (like branching, merging). |
-------------------------------------------------------------------------------------------
+		------------------------------------------------------------------------------------------
+		| Commands                | What It Does                                                  |
+		| ---------------------- | ------------------------------------------------------------- |
+		| `git help`             | Shows general help about Git.                                 |
+		| `git help <command>`   | Opens the manual page for a specific command.                 |
+		| `git <command> --help` | Same as above (alternate way).                                |
+		| `git help -a`          | Lists all available Git commands.                             |
+		| `git help -g`          | Shows a list of Git concept guides (like branching, merging). |
+		------------------------------------------------------------------------------------------
 
 Difference between Git & GitHub:
 --------------------------------
