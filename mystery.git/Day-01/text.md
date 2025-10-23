@@ -43,7 +43,7 @@ Difference between Git & GitHub:
 		----------------------------------------------------------------------------------------------------------------------------------------------------
 		| Feature            | Git                                           | GitHub                                                                       |
 		|--------------------|-----------------------------------------------|------------------------------------------------------------------------------|
-		| **Definition**     | Distributed version control system to track changes in code.| Cloud-based platform** to host Git repositories and collaborate|   |**Type**            | Tool (Installed locally)                      | Service (Web-based)                                                          |
+		| **Definition**     | Distributed version control system to track changes in code.| Cloud-based platform** to host Git repositories and collaborate|   |**Type**             | Tool (Installed locally)                      | Service (Web-based)                                                          |
 		| **Usage**          | Manage versions of code locally.              | Share, collaborate, and manage Git repos online.                             |
 		| **Internet**       | Not required for local version control.       | Requires internet to push/pull changes.                                      |
 		| **Installation**   | Needs to be installed on your system.         | No installation needed (Web account needed).                                 |
@@ -54,16 +54,17 @@ Difference between Git & GitHub:
 		|                    |                                               |                                                                              |
 		-----------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Difference Between CLI & GUI.
+ Difference Between CLI & GUI:
+ -----------------------------
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
-| Feature           | CLI (Command-Line Interface)                                          | GUI (Graphical User Interface)                               |        
-| ----------------- | --------------------------------------------------------------------- | -------------------------------------------------------------|
-| Definition        | Text-based interface where users type commands to operate the system. | Visual interface where users interact using icons, windows.  |
-| Ease of Use       | Harder for beginners; requires memorizing commands.                   | Easier; intuitive and user-friendly.                         |            
-| Speed             | Faster for advanced users; supports automation.                       | Slower for complex tasks due to point-and-click  |navigation.|              
-| Resource Usage    | Lightweight; uses minimal system resources.                           | Heavy; consumes more memory and processing power.            |           
-| Flexibility       | Highly flexible; ideal for scripting and remote work.                 | Limited flexibility; mostly for manual interactions.         |          
-| Examples          | Linux Terminal, Windows Command Prompt, PowerShell.                   | Windows Desktop, macOS Finder, GNOME, KDE.                   |          
-| Best Use Case     | Development, system administration, automation.                       | Everyday computing, simple tasks, multimedia.                |  
------------------------------------------------------------------------------------------------------------------------------------------------------------  
+	-----------------------------------------------------------------------------------------------------------------------------------------------------------
+	| Feature           | CLI (Command-Line Interface)                                          | GUI (Graphical User Interface)                               |        
+	| ----------------- | --------------------------------------------------------------------- | -------------------------------------------------------------|
+	| Definition        | Text-based interface where users type commands to operate the system. | Visual interface where users interact using icons, windows.  |
+	| Ease of Use       | Harder for beginners; requires memorizing commands.                   | Easier; intuitive and user-friendly.                         |            
+	| Speed             | Faster for advanced users; supports automation.                       | Slower for complex tasks due to point-and-click  |navigation.|              
+	| Resource Usage    | Lightweight; uses minimal system resources.                           | Heavy; consumes more memory and processing power.            |           
+	| Flexibility       | Highly flexible; ideal for scripting and remote work.                 | Limited flexibility; mostly for manual interactions.         |          
+	| Examples          | Linux Terminal, Windows Command Prompt, PowerShell.                   | Windows Desktop, macOS Finder, GNOME, KDE.                   |          
+	| Best Use Case     | Development, system administration, automation.                       | Everyday computing, simple tasks, multimedia.                |  
+	-----------------------------------------------------------------------------------------------------------------------------------------------------------  
