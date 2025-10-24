@@ -4,8 +4,11 @@ Note:
 
 	Open Git bash---> move to cd Documents/ --> create a directory using mkdir directory-name/ --> cd directory-name/---> then follow below steps.
 
-Step-1:-
+Step-1:
+-------
+
 	Initialize the git working repository.
+	
 command:
 --------
 	git init
