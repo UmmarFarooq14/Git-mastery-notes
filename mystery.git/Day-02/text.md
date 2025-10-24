@@ -14,10 +14,14 @@ command:
 	git init
 
 
-Step-2:-
-	Before this we need  to create a GitHub account
---> create a Repository and keep it public and add a readme file-->u fill find button called code click on the code button-----> u fill find a HTTPS & SSH -----> Move to SSH and copy the key.
-	-->Creating a alias name to the GitHub to push the repo's.
+Step-2:
+-------
+
+		Before this we need  to create a GitHub account.
+		
+		--> create a Repository and keep it public and add a readme file-->u fill find button called code click on the code button-----> u fill find a HTTPS & SSH -----> Move to SSH and copy the key.
+		-->Creating a alias name to the GitHub to push the repo's.
+	
 command:
 --------
 	git remote add alias-name and copy ssh-key from GitHub and paste.
