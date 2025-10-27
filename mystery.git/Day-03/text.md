@@ -40,13 +40,13 @@ Git Work Flows:
 Git Basic Commands:
 -------------------
 
-1) To check the installed version                      -----> git --version.
-2) Clone a remote repository to local machine          -----> git clone <copy the https-link>
-3) To check the status of a file                       -----> git status.
-4) To check the commit history                         -----> git log 
-5) To display the commit history of previous 3 commits -----> git log -3
-6) To display the commit history in one-line           -----> git log ---oneline.
-7) To see the changes in branches                      -----> git diff.
-8) Removing a file from git                            -----> git rm filename.
-9) Renaming a file                                     -----> mv old-name new-name.
-10) Moving a file from one location to another location -----> mv source of file destination of file.
+		1) To check the installed version                      -----> git --version.
+		2) Clone a remote repository to local machine          -----> git clone <copy the https-link>
+		3) To check the status of a file                       -----> git status.
+		4) To check the commit history                         -----> git log 
+		5) To display the commit history of previous 3 commits -----> git log -3
+		6) To display the commit history in one-line           -----> git log ---oneline.
+		7) To see the changes in branches                      -----> git diff.
+		8) Removing a file from git                            -----> git rm filename.
+		9) Renaming a file                                     -----> mv old-name new-name.
+		10) Moving a file from one location to another location -----> mv source of file destination of file.
