@@ -49,4 +49,4 @@ Git Basic Commands:
 		7) To see the changes in branches                      -----> git diff.
 		8) Removing a file from git                            -----> git rm filename.
 		9) Renaming a file                                     -----> mv old-name new-name.
-		10) Moving a file from one location to another location -----> mv source of file destination of file.
+	   10) Moving a file from one location to another location -----> mv source of file destination of file.
