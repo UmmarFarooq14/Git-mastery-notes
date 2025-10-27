@@ -1,7 +1,7 @@
 Working Area:
 ------------
 
---> After this create a files in git using the Linux commands.
+		--> After this create a files in git using the Linux commands.
 
 command:
 --------
