@@ -34,8 +34,8 @@ Remote Repo:
 Git Work Flows:
 ---------------
 
---> Working Area(Untracked Files)-------------> Staging Area---------------> Local Repo---------------> Remote Repo 
-                               git add                    git commit                   git push
+		--> Working Area(Untracked Files)-------------> Staging Area---------------> Local Repo---------------> Remote Repo 
+		                               git add                    git commit                   git push
 
 Git Basic Commands:
 -------------------
