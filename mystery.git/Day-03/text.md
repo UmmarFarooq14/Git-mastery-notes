@@ -6,7 +6,7 @@ Working Area:
 command:
 --------
 
---> touch / cat/ vim -----> use to create the file.
+		--> touch / cat/ vim -----> use to create the file.
 
 Ex:-
 ----
