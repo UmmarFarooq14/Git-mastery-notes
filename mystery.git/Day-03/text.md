@@ -35,7 +35,7 @@ Git Work Flows:
 ---------------
 
 		--> Working Area(Untracked Files)-------------> Staging Area---------------> Local Repo---------------> Remote Repo 
-		                               git add                    git commit                   git push
+		                                  git add                    git commit                   git push
 
 Git Basic Commands:
 -------------------
