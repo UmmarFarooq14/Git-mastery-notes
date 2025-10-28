@@ -3,7 +3,8 @@ Git Reset Concept:
 
 Scenario:
 ---------
-	If you have accidentally staged a file (moved it from the Working Directory to the Staging Area) and your developer asks you to keep it only in the Working Directory (un-staged), you can use the following command:
+	If you have accidentally staged a file (moved it from the Working Directory to the Staging Area) and your developer asks you to keep it only in the Working Directory (un-staged), 
+	you can use the following command:
 
 Command:
 --------
