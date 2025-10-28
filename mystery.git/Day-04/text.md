@@ -38,5 +38,5 @@ command:
 --------
 	git show --pretty="" --name-only commit-id.
  
--->This command will display the names of files in committing stage.
+	-->This command will display the names of files in committing stage.
 
