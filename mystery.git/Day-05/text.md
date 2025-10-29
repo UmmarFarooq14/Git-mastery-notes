@@ -33,4 +33,4 @@ Steps:
 In GUI:
 ------
 
-Go to GitHub---->open the repository u want to change---->go to setting----> scroll down bottom ---->select change visibility to private.
+    Go to GitHub---->open the repository u want to change---->go to setting----> scroll down bottom ---->select change visibility to private.
