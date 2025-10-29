@@ -8,8 +8,8 @@ Scenario:
 To delete untracked files we will use two commands:
 ------------------------------------------------------
 
-1) git clean -n ----> It will display the all files what are all  going to delete.
-2) git clean -f ----> It will delete the files in untracked area.
+    1) git clean -n ----> It will display the all files what are all  going to delete.
+    2) git clean -f ----> It will delete the files in untracked area.
 
 
 
