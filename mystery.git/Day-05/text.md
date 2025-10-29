@@ -13,14 +13,12 @@ To delete untracked files we will use two commands:
 
 
 
-
-
 Changing a repository from Public to Private:
 ---------------------------------------------
 Scenario:
 ---------
 
---> You have a public repository on GitHub that contains some sensitive code or internal project files. Your manager has asked you to make it private so that only authorized team members can access it.
+    --> You have a public repository on GitHub that contains some sensitive code or internal project files. Your manager has asked you to make it private so that only authorized team members can access it.
 
 In CLI:
 -------
