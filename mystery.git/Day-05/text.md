@@ -2,7 +2,7 @@ How to delete a untracked files in git:
 ---------------------------------------
 Scenario:
 ---------
---> You are working on a project, and over time you’ve created multiple temporary or test files (e.g., .log, .tmp, build files) that are not tracked by Git. These files clutter your working directory, and your manager asks you to clean them up to maintain a tidy repository.
+    --> You are working on a project, and over time you’ve created multiple temporary or test files (e.g., .log, .tmp, build files) that are not tracked by Git. These files clutter your working directory, and your manager asks you to clean them up to maintain a tidy repository.
 
 
 To delete untracked files we will use two commands:
