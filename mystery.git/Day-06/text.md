@@ -42,5 +42,5 @@ How to push all the files/directories into all the branches:
 -----------------------------------------------------------
 command:
 -------
-git push alias-name 
+	git push alias-name 
 
