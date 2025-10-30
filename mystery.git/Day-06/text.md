@@ -20,7 +20,7 @@ Difference between git add. & git add *:
 
 git add . :
 -----------
---> It will push all the files/directories to staging area including hidden files/directories.
+	--> It will push all the files/directories to staging area including hidden files/directories.
 
 git add * :
 -----------
