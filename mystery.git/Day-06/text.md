@@ -24,7 +24,7 @@ git add . :
 
 git add * :
 -----------
---> It will push all the files/directories to staging area except hidden files/directories.
+	--> It will push all the files/directories to staging area except hidden files/directories.
  
 
 .gitignore:
