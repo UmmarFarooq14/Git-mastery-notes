@@ -33,9 +33,9 @@ git add * :
 
 Note:-
 -----
-1) .gitignore prevents tracking of files you don't want in version control.
-2) If a file is already in repo, .gitignore won't remove it, you need git rm --cached.
-3) It won't affect the other files, it only applies to the files matching pattern inside the .gitignore.
+	1) .gitignore prevents tracking of files you don't want in version control.
+	2) If a file is already in repo, .gitignore won't remove it, you need git rm --cached.
+	3) It won't affect the other files, it only applies to the files matching pattern inside the .gitignore.
 
 
 How to push all the files/directories into all the branches:
