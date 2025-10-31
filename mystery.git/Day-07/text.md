@@ -39,9 +39,9 @@ command:
 Visual Example:
 ---------------
 
-main ───●──●──●─────────────●
-          \                 /
-           feature-1 ──●──●─
+	main ───●──●──●─────────────●
+	          \                 /
+	           feature-1 ──●──●─
 
 
 To create a new-branch and switch it to created-branch:
