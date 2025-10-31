@@ -6,9 +6,9 @@ What is a Branch in Git:
 -----------------------
 	 A branch is like a separate line of development in your project.
 
-1)  Think of it as a pointer to a specific commit.
-2)  It lets you work on new features, bug fixes, or experiments without affecting the main code.
-3)  When ready, you can merge your branch back into another branch (like main).
+	1)  Think of it as a pointer to a specific commit.
+	2)  It lets you work on new features, bug fixes, or experiments without affecting the main code.
+	3)  When ready, you can merge your branch back into another branch (like main).
 
 Why Use Branches:
 -----------------
