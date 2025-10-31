@@ -13,10 +13,10 @@ What is a Branch in Git:
 Why Use Branches:
 -----------------
 
-1)  Isolate work: Work on a feature or bug independently.
-2)  Parallel development: Multiple people can work at the same time.
-3)  Safe experimentation: Test ideas without breaking the main project.
-4)  Organized workflow: Easier code reviews and CI/CD.
+	1)  Isolate work: Work on a feature or bug independently.
+	2)  Parallel development: Multiple people can work at the same time.
+	3)  Safe experimentation: Test ideas without breaking the main project.
+	4)  Organized workflow: Easier code reviews and CI/CD.
 
 
 How Branches Work (Simple Flow):
