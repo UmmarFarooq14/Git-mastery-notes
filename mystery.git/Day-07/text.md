@@ -52,9 +52,9 @@ command:
 
 Related Commands to branches:
 -----------------------------
-1) To display remote branches                          -----> git branch -r.
-2) To display all the branches                         -----> git branch -all.
-3) To display the branch in local                      -----> git branch.
-4) To delete a branch in local                         -----> git branch -d branch-name.
-5) To delete a branch in remote repo                   -----> git push alias-name :branch-name.
-6) modify the name of the branch                       -----> git branch -m <old-name> <new-name>.
+	1) To display remote branches                          -----> git branch -r.
+	2) To display all the branches                         -----> git branch -all.
+	3) To display the branch in local                      -----> git branch.
+	4) To delete a branch in local                         -----> git branch -d branch-name.
+	5) To delete a branch in remote repo                   -----> git push alias-name :branch-name.
+	6) modify the name of the branch                       -----> git branch -m <old-name> <new-name>.
