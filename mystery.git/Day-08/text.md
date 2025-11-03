@@ -42,7 +42,7 @@ Step-6:Commit the resolution
 command:
 -------
 
-git commit -m "Resolved merge conflict in <file-name>"
+    git commit -m "Resolved merge conflict in <file-name>"
 
 Step-7:Push the changes
 command:
