@@ -21,7 +21,7 @@ Step-2: Discuss and decide
 --------------------------
 
 
-  Communicate with the other developer(s) to decide which changes to keep or how to combine them.
+      Communicate with the other developer(s) to decide which changes to keep or how to combine them.
 
 Step-3: Edit the file
 ----------------------
