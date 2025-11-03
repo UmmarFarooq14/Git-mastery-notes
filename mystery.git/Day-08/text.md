@@ -35,7 +35,7 @@ Step-5:Stage the resolved file
 ------------------------------
 command:
 ------
-git add <file-name>
+    git add <file-name>
 
 Step-6:Commit the resolution
 ----------------------------
