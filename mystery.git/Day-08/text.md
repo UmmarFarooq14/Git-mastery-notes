@@ -1,6 +1,6 @@
 Concept of merge conflict:
 --------------------------
-  A merge conflict occurs in Git when one or more developers edit the same part of a file and Git cannot automatically determine which change is correct. This usually happens during a merge or rebase.
+    A merge conflict occurs in Git when one or more developers edit the same part of a file and Git cannot automatically determine which change is correct. This usually happens during a merge or rebase.
 
 Resolve-Steps:
 --------------
