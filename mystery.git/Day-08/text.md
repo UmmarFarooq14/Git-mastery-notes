@@ -7,8 +7,8 @@ Resolve-Steps:
 Step-1:Identify the conflict
 ----------------------------
 
--->  Git will show a message and mark the conflicting file(s).
--->  Open the file to see conflict markers like:
+    -->  Git will show a message and mark the conflicting file(s).
+    -->  Open the file to see conflict markers like:
 
 <<<<<<< HEAD
 Your changes
