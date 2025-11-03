@@ -47,4 +47,4 @@ command:
 Step-7:Push the changes
 command:
 -------
-git push origin <branch-name>
+    git push origin <branch-name>
