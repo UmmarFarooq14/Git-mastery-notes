@@ -26,7 +26,7 @@ Step-2: Discuss and decide
 Step-3: Edit the file
 ----------------------
 
-  Remove the conflict markers (<<<<<<<, =======, >>>>>>>) and keep the correct code.
+      Remove the conflict markers (<<<<<<<, =======, >>>>>>>) and keep the correct code.
 
 Step-4: Save and exit the file
 ------------------------------
