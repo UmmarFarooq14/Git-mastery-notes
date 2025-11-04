@@ -57,7 +57,7 @@ Git merge:
 
 command:
 --------
-  git merge origin/main.
+             git merge origin/main.
 
 Git pull:
 ---------
