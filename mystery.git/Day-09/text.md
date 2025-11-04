@@ -10,17 +10,17 @@ Why Use Stash:
 
 Common Commands:
 ---------------
-------------------------------------------------------------------------------
-| Command                | Description                                       |
-| ---------------------- | ------------------------------------------------- |
-| `git stash`            | Save your changes and clear working directory.    |
-| `git stash save "msg"` | Save with a message (optional in newer Git).      |
-| `git stash list`       | Show all saved stashes.                           |
-| `git stash apply`      | Apply the latest stash but keep it in stash list. |
-| `git stash pop`        | Apply the latest stash and remove it from list.   |
-| `git stash drop`       | Delete a specific stash.                          |
-| `git stash clear`      | Remove all stashes.                               |
-------------------------------------------------------------------------------
+           ------------------------------------------------------------------------------
+           | Command                | Description                                       |
+           | ---------------------- | ------------------------------------------------- |
+           | `git stash`            | Save your changes and clear working directory.    |
+           | `git stash save "msg"` | Save with a message (optional in newer Git).      |
+           | `git stash list`       | Show all saved stashes.                           |
+           | `git stash apply`      | Apply the latest stash but keep it in stash list. |
+           | `git stash pop`        | Apply the latest stash and remove it from list.   |
+           | `git stash drop`       | Delete a specific stash.                          |
+           | `git stash clear`      | Remove all stashes.                               |
+           ------------------------------------------------------------------------------
 
 Visual Idea:
 -----------
