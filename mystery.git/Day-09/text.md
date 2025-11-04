@@ -65,4 +65,4 @@ Git pull:
 
 command:
 --------
-  git pull origin main.
+             git pull origin main.
