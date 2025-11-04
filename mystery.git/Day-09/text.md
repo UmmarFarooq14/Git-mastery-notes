@@ -25,15 +25,15 @@ Common Commands:
 Visual Idea:
 -----------
 
-[ Working Directory with Changes ] 
-           |
-        git stash
-           v
-[ Changes saved in stash stack, directory clean ]
-           |
-        git stash pop
-           v
-[ Changes restored from stash stack ]
+           [ Working Directory with Changes ] 
+                      |
+                   git stash
+                      v
+           [ Changes saved in stash stack, directory clean ]
+                      |
+                   git stash pop
+                      v
+           [ Changes restored from stash stack ]
 
 
 
