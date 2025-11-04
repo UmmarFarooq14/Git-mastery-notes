@@ -4,9 +4,9 @@ Concept of git stash:
 
 Why Use Stash:
 -------------
-1) when you need to switch branches quickly without committing.
-2) When you want to save work in progress temporarily.
-3) keep your commit history clean.
+           1) when you need to switch branches quickly without committing.
+           2) When you want to save work in progress temporarily.
+           3) keep your commit history clean.
 
 Common Commands:
 ---------------
