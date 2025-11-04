@@ -49,7 +49,7 @@ Git fetch:
 
 command:
 -------
-  git fetch origin.
+             git fetch origin.
 
 Git merge:
 ----------
