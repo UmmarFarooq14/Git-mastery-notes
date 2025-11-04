@@ -1,6 +1,6 @@
 Concept of git stash:
 ---------------------
---> git stash is used to temporarily save your uncommitted changes (both staged and unstaged) so you can switch branches or work on something else without committing.
+           --> git stash is used to temporarily save your uncommitted changes (both staged and unstaged) so you can switch branches or work on something else without committing.
 
 Why Use Stash:
 -------------
