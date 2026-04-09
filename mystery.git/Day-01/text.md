@@ -25,7 +25,7 @@ Concept of Git Help:
 		2)  It's like a manual that tells you what each Git command does, how to use it and what are the options available.
 
 Basic Usage:
-------------
+-------------
 		------------------------------------------------------------------------------------------
 		| Commands                | What It Does                                                  |
 		| ---------------------- | ------------------------------------------------------------- |
