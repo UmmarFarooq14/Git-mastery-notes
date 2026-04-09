@@ -6,7 +6,7 @@ Tools Required to Learn Git:
 
 
 What is Git & History of Gui:
-----------------------------
+-----------------------------
 
 		--> Git is a popular version control system tool created by Linus Torvalds in 2005 and maintained by Junio Hamano as of now.
 
