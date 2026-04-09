@@ -1,5 +1,5 @@
 Tools Required to Learn Git:
----------------------------
+----------------------------
 	Git Bash
 	GitHub Account
 	
